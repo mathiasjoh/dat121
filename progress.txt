@@ -1,0 +1,20 @@
+
+Conclusions
+
+In summary, this EDA shows:
+
+    Larceny is by far the most common type of serious crime.
+    Serious crimes are most likely to occur in the afternoon and evening.
+    Serious crimes are most likely to occur on Friday and least likely to occur on Sunday.
+    Serious crimes are most likely to occur in the summer and early fall, and least likely to occur in the winter (with the exeption of January, which has a crime rate more similar to the summer).
+    There is no obvious connection between major holidays and crime rates.
+    Serious crimes are most common in the city center, especially districts A1 and D4.
+
+This EDA just scratches the surface of the dataset. Further analyses could explore how different types of crimes vary in time and space. I didn't even consider the less serious UCR Part Two and Part Three crimes, which are far more common than Part One crimes, but include interesting categories such as drug crimes. Another interesting direction would be to combine this with other data about Boston, such as demography or even the weather, to investigate what factors predict crime rates across time and space.
+
+WASHINGTON STREET is probably the most usual street because its such a long street.
+
+0.99646934751708 of all responses are not shootings.
+
+We have heatmap of all responses
+We have heatmap of all shootings responses
