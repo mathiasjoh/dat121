@@ -37,14 +37,7 @@ mydata=data[:100][:100]
 #values = {'A': 0, 'B': 1, 'C': 2, 'D': 3}
 hmydata=mydata.fillna(0)
 
-import numpy as np
-import matplotlib.cm as cm
-from matplotlib.pyplot import figure, show, rc
 
-
-whatsthis=np.arange(0.0, 2*np.pi, 2*np.pi/20)
-plotdis= data.groupby('OFFENSE_CODE_GROUP')['INCIDENT_NUMBER'].count()
-#toplot=plotdis:[1]
 #==============================================================================
 # Data Visualization
 #==============================================================================
